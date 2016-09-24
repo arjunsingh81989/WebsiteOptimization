@@ -1,5 +1,7 @@
 ## Website Performance Optimization portfolio project
 
+Technologies: Grunt Javascript Task Runner, Javascript, Google Chrome’s Timeline Dev Tool
+
 ###Part 1: Optimize PageSpeed Insights score for index.html
 
 I performed following steps to optimize PageSpeed Insights (PI) score for `index.html`.
