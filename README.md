@@ -1,6 +1,6 @@
 ## Website Performance Optimization Project: Udacity's Front End NanoDegree Program
 
-Technologies: Grunt Javascript Task Runner, Javascript, Google Chrome’s Timeline Dev Tool
+Technologies: Grunt JavaScript Task Runner, JavaScript, Google Chrome’s Timeline Dev Tool
 
 ###Part 1: Optimize PageSpeed Insights score for index.html
 
