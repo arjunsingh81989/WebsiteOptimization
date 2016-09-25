@@ -1,4 +1,4 @@
-## Website Performance Optimization portfolio project
+## Website Performance Optimization Project: Udacity's Front End NanoDegree Program
 
 Technologies: Grunt Javascript Task Runner, Javascript, Google Chrome’s Timeline Dev Tool
 
